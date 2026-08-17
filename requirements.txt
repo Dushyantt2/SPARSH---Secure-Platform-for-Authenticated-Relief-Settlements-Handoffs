@@ -1,0 +1,63 @@
+# SPARSH / SAMARTH — local run requirements
+# This project is a Node.js/TypeScript + PostgreSQL application.
+# JavaScript dependencies are installed via `npm install` (see start.sh);
+# this file documents the SYSTEM-level prerequisites required to run it.
+
+# ---------------------------------------------------------------------------
+# System requirements
+# ---------------------------------------------------------------------------
+# - Node.js          >= 18 (ESM-capable; 20 LTS recommended)
+# - npm              >= 9   (ships with Node.js)
+# - PostgreSQL       >= 12  (server must be running on port 5432)
+# - Bash 4+          (Linux / macOS / WSL / Git Bash)  -> run ./start.sh
+#   or Windows cmd   -> run start.bat
+
+# ---------------------------------------------------------------------------
+# Database defaults used by the app (override with env vars if yours differ)
+# ---------------------------------------------------------------------------
+# PGHOST      = 127.0.0.1
+# PGPORT      = 5432
+# PGUSER      = postgres
+# PGPASSWORD  = postgres
+# PGDATABASE  = samarth
+
+# ---------------------------------------------------------------------------
+# Example install commands
+# ---------------------------------------------------------------------------
+# Ubuntu / Debian:
+#   sudo apt-get update
+#   sudo apt-get install -y postgresql postgresql-contrib
+#   sudo systemctl enable --now postgresql
+#   sudo -u postgres psql -c "ALTER USER postgres PASSWORD 'postgres';"
+#   curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+#   sudo apt-get install -y nodejs
+
+# macOS (Homebrew):
+#   brew install node postgresql@14
+#   brew services start postgresql@14
+
+# Windows:
+#   Install PostgreSQL from https://www.postgresql.org/download/windows/
+#   Install Node.js from https://nodejs.org (LTS)
+#   Use start.bat (set PGPASSWORD to your postgres user's password if needed)
+
+# ---------------------------------------------------------------------------
+# JavaScript dependencies (installed automatically by start.sh / npm install)
+# ---------------------------------------------------------------------------
+# backend  : express, pg, jsonwebtoken, bcryptjs, cors, morgan
+#            (dev: tsx, typescript, vitest, supertest)
+# frontend : react, react-dom, react-router-dom, vite, tailwindcss,
+#            framer-motion, recharts, lucide-react, qrcode
+# root     : concurrently (runs server + web together)
+
+# ---------------------------------------------------------------------------
+# Quick start
+# ---------------------------------------------------------------------------
+#   ./start.sh        # or: start.bat   — does everything and runs the app
+#
+# Once running:
+#   Frontend UI  -> http://localhost:5173
+#   Backend API  -> http://localhost:4000  (health: /api/health)
+#
+# Useful extra flags for start.sh:
+#   FORCE_RESET=1 ./start.sh   # drop + rebuild + reseed the database first

@@ -1,0 +1,1081 @@
+{
+  "FIR_RJ_2025_0101": {
+    "meta": {
+      "cctns_id": "RJ-JOD-04-2025-0101",
+      "station_id": "RJ_JOD_04",
+      "year": "2025",
+      "export_timestamp": "2025-02-15T10:00:00Z"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0101",
+        "Registration_Date": "2025-02-10T11:30:00Z",
+        "GD_Entry": { "GD_Number": "005", "GD_Date": "2025-02-10T11:00:00Z" },
+        "Source_of_Complaint": "ORAL",
+        "Type_of_Crime": "HEINOUS",
+        "Police_Station": {
+          "ID": "RJ_JOD_04",
+          "Name": "Sardarpura Police Station",
+          "District": "Jodhpur West",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Main Market, Sadar Bazar, Jodhpur",
+          "Distance_from_PS": "1.5 KM",
+          "Direction": "NORTH",
+          "Beat_No": "BT-02"
+        }
+      },
+      "Complainant": {
+        "Name": "Anjali Meena",
+        "Father_Name": "Sohan Lal Meena",
+        "Address": "Plot 45, Railway Colony, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9988776655"
+      },
+      "Acts_and_Sections": [
+        {
+          "Act_Code": "IPC",
+          "Act_Name": "INDIAN PENAL CODE 1860",
+          "Sections": ["354", "354A", "509"]
+        },
+        {
+          "Act_Code": "SCST_POA",
+          "Act_Name": "SC/ST (PREVENTION OF ATROCITIES) ACT 1989",
+          "Sections": ["3(1)(w)(i)", "3(2)(v)"]
+        }
+      ],
+      "Accused_Details": [
+        {
+          "Rank": 1,
+          "Name": "Rohit Sharma",
+          "Status": "ARRESTED"
+        }
+      ],
+      "IO_Details": { "IO_Name": "Kavita Singh", "Rank": "INSPECTOR", "Belt_No": "RJ-JOD-8899" }
+    },
+    "IIF2_CrimeDetails": {
+      "Victims": [
+        {
+          "Victim_ID": "V_01",
+          "Name": "Anjali Meena",
+          "Age": 24,
+          "Gender": "FEMALE",
+          "Social_Category": "ST",
+          "Caste_Tribe": "Meena",
+          "Injury_Nature": "NO_PHYSICAL_INJURY",
+          "Injury_Description": "Outraging modesty and sexual harassment"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [
+        { "Accused_Name": "Rohit Sharma", "Arrest_Date": "2025-02-14T14:00:00Z", "Arrest_Memo_ID": "MEMO-2025-0101" }
+    ],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0102": {
+    "meta": {
+      "cctns_id": "RJ-JOD-04-2025-0102",
+      "station_id": "RJ_JOD_04",
+      "year": "2025",
+      "export_timestamp": "2025-02-13T09:00:00Z"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0102",
+        "Registration_Date": "2025-02-12T09:15:00Z",
+        "GD_Entry": { "GD_Number": "009", "GD_Date": "2025-02-12T09:00:00Z" },
+        "Source_of_Complaint": "WRITTEN",
+        "Type_of_Crime": "HEINOUS",
+        "Police_Station": {
+          "ID": "RJ_JOD_04",
+          "Name": "Sardarpura Police Station",
+          "District": "Jodhpur West",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Village Nandri, Public Well Area",
+          "Distance_from_PS": "12 KM",
+          "Direction": "EAST",
+          "Beat_No": "BT-08"
+        }
+      },
+      "Complainant": {
+        "Name": "Vikram Das",
+        "Father_Name": "Mohan Das",
+        "Address": "Village Nandri, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9876500001"
+      },
+      "Acts_and_Sections": [
+        {
+          "Act_Code": "IPC",
+          "Act_Name": "INDIAN PENAL CODE 1860",
+          "Sections": ["326", "341"]
+        },
+        {
+          "Act_Code": "SCST_POA",
+          "Act_Name": "SC/ST (PREVENTION OF ATROCITIES) ACT 1989",
+          "Sections": ["3(2)(v)", "3(1)(s)"]
+        }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Surendra Singh", "Status": "NOT_ARRESTED" },
+        { "Rank": 2, "Name": "Mahendra Singh", "Status": "NOT_ARRESTED" }
+      ],
+      "IO_Details": { "IO_Name": "Rajesh Meena", "Rank": "SI", "Belt_No": "RJ-JOD-4455" }
+    },
+    "IIF2_CrimeDetails": {
+      "Victims": [
+        {
+          "Victim_ID": "V_01",
+          "Name": "Vikram Das",
+          "Age": 32,
+          "Gender": "MALE",
+          "Social_Category": "SC",
+          "Caste_Tribe": "Meghwal",
+          "Injury_Nature": "GRIEVOUS",
+          "Injury_Description": "Fracture in left arm due to iron rod attack"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0103": {
+    "meta": {
+      "cctns_id": "RJ-JOD-04-2025-0103",
+      "station_id": "RJ_JOD_04",
+      "year": "2025",
+      "export_timestamp": "2025-02-15T18:00:00Z"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0103",
+        "Registration_Date": "2025-02-14T18:30:00Z",
+        "GD_Entry": { "GD_Number": "022", "GD_Date": "2025-02-14T18:00:00Z" },
+        "Source_of_Complaint": "WRITTEN",
+        "Type_of_Crime": "HEINOUS",
+        "Police_Station": {
+          "ID": "RJ_JOD_04",
+          "Name": "Sardarpura Police Station",
+          "District": "Jodhpur West",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Highway NH-62, Near Pali Road Checkpost",
+          "Distance_from_PS": "8 KM",
+          "Direction": "SOUTH",
+          "Beat_No": "BT-04"
+        }
+      },
+      "Complainant": {
+        "Name": "Sunita Devi",
+        "Father_Name": "Ram Narayan",
+        "Address": "Shastri Nagar, Sector C",
+        "Nationality": "INDIAN",
+        "Mobile": "8899776655"
+      },
+      "Acts_and_Sections": [
+        {
+          "Act_Code": "IPC",
+          "Act_Name": "INDIAN PENAL CODE 1860",
+          "Sections": ["365", "323", "506"]
+        },
+        {
+          "Act_Code": "SCST_POA",
+          "Act_Name": "SC/ST (PREVENTION OF ATROCITIES) ACT 1989",
+          "Sections": ["3(2)(v)"]
+        }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Unknown Persons", "Alias": "Aggyat", "Status": "NOT_ARRESTED" }
+      ],
+      "IO_Details": { "IO_Name": "Amitabh Gupta", "Rank": "DYSP", "Belt_No": "RJ-JOD-9900" }
+    },
+    "IIF2_CrimeDetails": {
+      "Victims": [
+        {
+          "Victim_ID": "V_01",
+          "Name": "Sunita Devi",
+          "Age": 22,
+          "Gender": "FEMALE",
+          "Social_Category": "SC",
+          "Caste_Tribe": "Bairwa",
+          "Injury_Nature": "SIMPLE",
+          "Injury_Description": "Abducted in a car and released later. Minor bruises."
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0104": {
+    "meta": {
+      "cctns_id": "RJ-JOD-04-2025-0104",
+      "station_id": "RJ_JOD_04",
+      "year": "2025",
+      "export_timestamp": "2025-02-16T10:00:00Z"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0104",
+        "Registration_Date": "2025-02-15T10:15:00Z",
+        "GD_Entry": { "GD_Number": "003", "GD_Date": "2025-02-15T10:00:00Z" },
+        "Source_of_Complaint": "ORAL",
+        "Type_of_Crime": "NON_HEINOUS",
+        "Police_Station": {
+          "ID": "RJ_JOD_04",
+          "Name": "Sardarpura Police Station",
+          "District": "Jodhpur West",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "City Bus Stand",
+          "Distance_from_PS": "3 KM",
+          "Direction": "WEST",
+          "Beat_No": "BT-01"
+        }
+      },
+      "Complainant": {
+        "Name": "Rahul Valmiki",
+        "Father_Name": "Kishore Valmiki",
+        "Address": "Harijan Basti, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "7766554433"
+      },
+      "Acts_and_Sections": [
+        {
+          "Act_Code": "IPC",
+          "Act_Name": "INDIAN PENAL CODE 1860",
+          "Sections": ["504", "506"]
+        },
+        {
+          "Act_Code": "SCST_POA",
+          "Act_Name": "SC/ST (PREVENTION OF ATROCITIES) ACT 1989",
+          "Sections": ["3(1)(r)", "3(1)(s)"]
+        }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Rakesh Gupta", "Status": "NOT_ARRESTED" }
+      ],
+      "IO_Details": { "IO_Name": "Suresh Choudhary", "Rank": "SI", "Belt_No": "RJ-JOD-1122" }
+    },
+    "IIF2_CrimeDetails": {
+      "Victims": [
+        {
+          "Victim_ID": "V_01",
+          "Name": "Rahul Valmiki",
+          "Age": 29,
+          "Gender": "MALE",
+          "Social_Category": "SC",
+          "Caste_Tribe": "Valmiki",
+          "Injury_Nature": "NO_INJURY",
+          "Injury_Description": "Verbal abuse and intimidation"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0105": {
+    "meta": {
+      "cctns_id": "RJ-JOD-04-2025-0105",
+      "station_id": "RJ_JOD_04",
+      "year": "2025",
+      "export_timestamp": "2025-02-19T14:00:00Z"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0105",
+        "Registration_Date": "2025-02-18T14:30:00Z",
+        "GD_Entry": { "GD_Number": "015", "GD_Date": "2025-02-18T14:00:00Z" },
+        "Source_of_Complaint": "WRITTEN",
+        "Type_of_Crime": "HEINOUS",
+        "Police_Station": {
+          "ID": "RJ_JOD_04",
+          "Name": "Sardarpura Police Station",
+          "District": "Jodhpur West",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Near Paota Circle",
+          "Distance_from_PS": "4 KM",
+          "Direction": "NORTH",
+          "Beat_No": "BT-06"
+        }
+      },
+      "Complainant": {
+        "Name": "Amit Gond",
+        "Father_Name": "Babu Lal",
+        "Address": "Tribal Hostel, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "6655443322"
+      },
+      "Acts_and_Sections": [
+        {
+          "Act_Code": "IPC",
+          "Act_Name": "INDIAN PENAL CODE 1860",
+          "Sections": ["326B", "34"]
+        },
+        {
+          "Act_Code": "SCST_POA",
+          "Act_Name": "SC/ST (PREVENTION OF ATROCITIES) ACT 1989",
+          "Sections": ["3(2)(v)"]
+        }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Unknown Persons", "Alias": "Bike Riders", "Status": "NOT_ARRESTED" }
+      ],
+      "IO_Details": { "IO_Name": "Vikram Rathore", "Rank": "CI", "Belt_No": "RJ-JOD-5566" }
+    },
+    "IIF2_CrimeDetails": {
+      "Victims": [
+        {
+          "Victim_ID": "V_01",
+          "Name": "Amit Gond",
+          "Age": 20,
+          "Gender": "MALE",
+          "Social_Category": "ST",
+          "Caste_Tribe": "Gond",
+          "Injury_Nature": "GRIEVOUS",
+          "Injury_Description": "Attempted acid attack causing burns on arm"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  }
+}
+
+
+{
+  "FIR_RJ_2025_0501": {
+    "meta": {
+      "cctns_id": "RJ-033-PS01-2025-0501",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS01",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0501",
+        "Registration_Date": "2025-01-10T10:30:00Z",
+        "GD_Entry": { "GD_Number": "002", "GD_Date": "2025-01-10T10:00:00Z" },
+        "Nature_Of_Information": "WRITTEN",
+        "Type_Of_Crime": "PROPERTY",
+        "Police_Station": {
+          "ID": "PS01",
+          "Name": "Sardarpura Police Station",
+          "District": "Jodhpur West",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Shop No 12, Market Road, Sardarpura",
+          "Distance_from_PS": "1.5 KM",
+          "Direction": "EAST",
+          "Beat_No": "BT-01"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-01-09T22:00:00Z",
+          "Date_To": "2025-01-10T06:00:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Rakesh Sharma",
+        "Father_Name": "Mohan Sharma",
+        "Address": "Sector 5, Kudi Bhagtasni, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9876511111"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "IPC", "Act_Name": "INDIAN PENAL CODE 1860", "Sections": ["379"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Unknown", "Status": "NOT_ARRESTED", "Address": "UNKNOWN" }
+      ],
+      "IO_Details": { "IO_Name": "Amit Singh", "Rank": "ASI", "Belt_No": "RJ-JOD-1234" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "THEFT",
+      "Minor_Head": "THEFT FROM SHOP",
+      "Modus_Operandi": "Breaking shutter locks using iron rod",
+      "Victims": [
+        {
+          "Victim_ID": "V_501",
+          "Name": "Rakesh Sharma",
+          "Age": 45,
+          "Gender": "MALE",
+          "Social_Category": "GENERAL",
+          "Injury_Nature": "NO_INJURY"
+        }
+      ],
+      "Property_Details": [
+        { "Property_Type": "ELECTRONIC_GOODS", "Description": "Samsung LED TV", "Estimated_Value": 50000, "Status": "STOLEN" }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0502": {
+    "meta": {
+      "cctns_id": "RJ-033-PS02-2025-0502",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS02",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0502",
+        "Registration_Date": "2025-01-12T14:15:00Z",
+        "GD_Entry": { "GD_Number": "008", "GD_Date": "2025-01-12T14:00:00Z" },
+        "Nature_Of_Information": "WRITTEN",
+        "Type_Of_Crime": "ECONOMIC",
+        "Police_Station": {
+          "ID": "PS02",
+          "Name": "Cyber Crime PS",
+          "District": "Jodhpur",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Digital Space (Online Transaction)",
+          "Distance_from_PS": "0 KM",
+          "Direction": "NA",
+          "Beat_No": "CYBER-01"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-01-11T10:00:00Z",
+          "Date_To": "2025-01-11T11:00:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Sunil Verma",
+        "Father_Name": "Kishore Verma",
+        "Address": "Plot 22, Civil Lines, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9876522222"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "IPC", "Act_Name": "INDIAN PENAL CODE 1860", "Sections": ["420", "406"] },
+        { "Act_Code": "IT_ACT", "Act_Name": "INFORMATION TECHNOLOGY ACT 2000", "Sections": ["66D"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Rahul Gupta", "Status": "NOT_ARRESTED", "Address": "UNKNOWN_IP_TRACE" }
+      ],
+      "IO_Details": { "IO_Name": "Priya Sethi", "Rank": "INSPECTOR", "Belt_No": "RJ-CYBER-01" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "CHEATING",
+      "Minor_Head": "ONLINE BANKING FRAUD",
+      "Modus_Operandi": "Phishing Link via SMS requesting KYC Update",
+      "Victims": [
+        {
+          "Victim_ID": "V_502",
+          "Name": "Sunil Verma",
+          "Age": 30,
+          "Gender": "MALE",
+          "Social_Category": "OBC",
+          "Injury_Nature": "NO_INJURY"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0503": {
+    "meta": {
+      "cctns_id": "RJ-033-PS03-2025-0503",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS03",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0503",
+        "Registration_Date": "2025-01-15T22:30:00Z",
+        "GD_Entry": { "GD_Number": "045", "GD_Date": "2025-01-15T22:00:00Z" },
+        "Nature_Of_Information": "SUO_MOTO",
+        "Type_Of_Crime": "SPECIAL_AND_LOCAL_LAWS",
+        "Police_Station": {
+          "ID": "PS03",
+          "Name": "Udai Mandir Police Station",
+          "District": "Jodhpur East",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Highway NH-62 Checkpost",
+          "Distance_from_PS": "5 KM",
+          "Direction": "SOUTH",
+          "Beat_No": "BT-03"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-01-15T22:00:00Z",
+          "Date_To": "2025-01-15T22:30:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Pratap Singh",
+        "Father_Name": "Bhawani Singh",
+        "Address": "Police Lines, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9414000000",
+        "Designation": "SHO_INSPECTOR"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "NDPS", "Act_Name": "NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES ACT", "Sections": ["20(b)(ii)(B)"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Mukesh Kumar", "Status": "ARRESTED", "Address": "Slum Area, Near Railway Track, Jodhpur" }
+      ],
+      "IO_Details": { "IO_Name": "Pratap Singh", "Rank": "INSPECTOR", "Belt_No": "RJ-JOD-5555" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "NDPS ACT",
+      "Minor_Head": "POSSESSION OF GANJA",
+      "Modus_Operandi": "Transporting contraband concealed in truck cabin",
+      "Victims": []
+    },
+    "IIF3_Arrest_Surrender": [
+        { 
+            "Accused_Name": "Mukesh Kumar", 
+            "Arrest_Date": "2025-01-15T23:00:00Z",
+            "Arrest_Memo_ID": "MEMO-2025-5566",
+            "Place_of_Arrest": "Highway Checkpost"
+        }
+    ],
+    "IIF4_Seizure": [
+        { 
+            "Seizure_ID": "SZ-2025-998",
+            "Item": "CONTRABAND_GANJA", 
+            "Quantity": "5.00 KG", 
+            "Seizure_Date": "2025-01-15T22:45:00Z",
+            "Seal_No": "SEAL-A-99",
+            "Witness_Details": "Ram Lal (Constable 2233)" 
+        }
+    ],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0504": {
+    "meta": {
+      "cctns_id": "RJ-033-PS04-2025-0504",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS04",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0504",
+        "Registration_Date": "2025-01-18T08:30:00Z",
+        "GD_Entry": { "GD_Number": "001", "GD_Date": "2025-01-18T08:00:00Z" },
+        "Nature_Of_Information": "WRITTEN",
+        "Type_Of_Crime": "BODY",
+        "Police_Station": {
+          "ID": "PS04",
+          "Name": "Salawas Police Station",
+          "District": "Jodhpur Rural",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Village Salawas House No 4",
+          "Distance_from_PS": "10 KM",
+          "Direction": "WEST",
+          "Beat_No": "BT-09"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-01-17T23:00:00Z",
+          "Date_To": "2025-01-17T23:30:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Vinod Kumar",
+        "Father_Name": "Ram Lal",
+        "Address": "Village Salawas",
+        "Nationality": "INDIAN",
+        "Mobile": "9876533333"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "IPC", "Act_Name": "INDIAN PENAL CODE 1860", "Sections": ["302", "34"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Raju Bhai", "Status": "NOT_ARRESTED", "Address": "Neighbor House, Salawas" }
+      ],
+      "IO_Details": { "IO_Name": "Vikram Rathore", "Rank": "CI", "Belt_No": "RJ-JOD-9988" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "MURDER",
+      "Minor_Head": "DUE TO PERSONAL ENMITY",
+      "Modus_Operandi": "Stabbing with sharp weapon due to land dispute",
+      "Victims": [
+        {
+          "Victim_ID": "V_504",
+          "Name": "Dinesh Kumar",
+          "Age": 25,
+          "Gender": "MALE",
+          "Social_Category": "SC",
+          "Injury_Nature": "DEATH",
+          "Injury_Details": "Deep stab wound in chest cavity"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0505": {
+    "meta": {
+      "cctns_id": "RJ-033-PS05-2025-0505",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS05",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0505",
+        "Registration_Date": "2025-01-20T19:30:00Z",
+        "GD_Entry": { "GD_Number": "033", "GD_Date": "2025-01-20T19:00:00Z" },
+        "Nature_Of_Information": "SUO_MOTO",
+        "Type_Of_Crime": "SPECIAL_AND_LOCAL_LAWS",
+        "Police_Station": {
+          "ID": "PS05",
+          "Name": "Mandore Police Station",
+          "District": "Jodhpur North",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Mandore Check Post",
+          "Distance_from_PS": "2 KM",
+          "Direction": "NORTH",
+          "Beat_No": "BT-02"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-01-20T19:00:00Z",
+          "Date_To": "2025-01-20T19:15:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Ram Lal",
+        "Father_Name": "NA",
+        "Address": "Police Station Mandore",
+        "Nationality": "INDIAN",
+        "Mobile": "9414222222",
+        "Designation": "ASI"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "EXCISE", "Act_Name": "RAJASTHAN EXCISE ACT 1950", "Sections": ["54", "19/54"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Suresh", "Status": "ARRESTED", "Address": "Pali Road, Jodhpur" }
+      ],
+      "IO_Details": { "IO_Name": "Ram Lal", "Rank": "ASI", "Belt_No": "RJ-JOD-2233" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "EXCISE ACT",
+      "Minor_Head": "ILLEGAL LIQUOR POSSESSION",
+      "Victims": []
+    },
+    "IIF3_Arrest_Surrender": [
+        { 
+            "Accused_Name": "Suresh", 
+            "Arrest_Date": "2025-01-20T20:00:00Z",
+            "Arrest_Memo_ID": "MEMO-2025-1122",
+            "Place_of_Arrest": "Mandore Check Post"
+        }
+    ],
+    "IIF4_Seizure": [
+        { 
+            "Seizure_ID": "SZ-2025-555",
+            "Item": "LIQUOR_BOTTLES", 
+            "Quantity": "50 CARTONS", 
+            "Seizure_Date": "2025-01-20T19:45:00Z",
+            "Witness_Details": "Constable Mukesh"
+        }
+    ],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0506": {
+    "meta": {
+      "cctns_id": "RJ-033-PS06-2025-0506",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS06",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0506",
+        "Registration_Date": "2025-02-01T04:30:00Z",
+        "GD_Entry": { "GD_Number": "004", "GD_Date": "2025-02-01T04:00:00Z" },
+        "Nature_Of_Information": "WRITTEN",
+        "Type_Of_Crime": "PROPERTY",
+        "Police_Station": {
+          "ID": "PS06",
+          "Name": "Kudi Bhagtasni PS",
+          "District": "Jodhpur South",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Plot 12, Sector 8, Housing Board",
+          "Distance_from_PS": "3 KM",
+          "Direction": "SOUTH",
+          "Beat_No": "BT-05"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-02-01T02:00:00Z",
+          "Date_To": "2025-02-01T04:00:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Suresh Gupta",
+        "Father_Name": "Kailash Gupta",
+        "Address": "Housing Board, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9876544444"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "IPC", "Act_Name": "INDIAN PENAL CODE 1860", "Sections": ["457", "380"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Unknown", "Status": "NOT_ARRESTED", "Address": "UNKNOWN" }
+      ],
+      "IO_Details": { "IO_Name": "Rajendra Singh", "Rank": "HC", "Belt_No": "RJ-JOD-7788" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "BURGLARY",
+      "Minor_Head": "BURGLARY AT NIGHT",
+      "Modus_Operandi": "Broken window grill",
+      "Victims": [
+        {
+          "Victim_ID": "V_506",
+          "Name": "Suresh Gupta",
+          "Age": 50,
+          "Gender": "MALE",
+          "Social_Category": "EWS",
+          "Injury_Nature": "NO_INJURY"
+        }
+      ],
+      "Property_Details": [
+        { "Property_Type": "JEWELRY", "Description": "Gold Chain 10g", "Estimated_Value": 60000, "Status": "STOLEN" }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0507": {
+    "meta": {
+      "cctns_id": "RJ-033-PS07-2025-0507",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS07",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0507",
+        "Registration_Date": "2025-02-05T12:30:00Z",
+        "GD_Entry": { "GD_Number": "018", "GD_Date": "2025-02-05T12:00:00Z" },
+        "Nature_Of_Information": "SUO_MOTO",
+        "Type_Of_Crime": "SPECIAL_AND_LOCAL_LAWS",
+        "Police_Station": {
+          "ID": "PS07",
+          "Name": "GRP Jodhpur",
+          "District": "Jodhpur Railways",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Platform 1, Jodhpur Railway Station",
+          "Distance_from_PS": "0.5 KM",
+          "Direction": "EAST",
+          "Beat_No": "BT-01"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-02-05T12:00:00Z",
+          "Date_To": "2025-02-05T12:15:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Vikram Singh",
+        "Father_Name": "NA",
+        "Address": "GRP Police Station",
+        "Nationality": "INDIAN",
+        "Mobile": "OFFICIAL_NUMBER",
+        "Designation": "SI"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "ARMS", "Act_Name": "ARMS ACT 1959", "Sections": ["3", "25"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Aslam", "Status": "ARRESTED", "Address": "Bomba Bazaar, Jodhpur" }
+      ],
+      "IO_Details": { "IO_Name": "Vikram Singh", "Rank": "SI", "Belt_No": "RJ-GRP-1122" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "ARMS ACT",
+      "Minor_Head": "ILLEGAL POSSESSION OF ARMS",
+      "Victims": []
+    },
+    "IIF3_Arrest_Surrender": [
+        { 
+            "Accused_Name": "Aslam", 
+            "Arrest_Date": "2025-02-05T13:00:00Z", 
+            "Arrest_Memo_ID": "GRP-MEMO-88",
+            "Place_of_Arrest": "Platform 1"
+        }
+    ],
+    "IIF4_Seizure": [
+        { 
+            "Seizure_ID": "GRP-SZ-01",
+            "Item": "COUNTRY_MADE_PISTOL", 
+            "Quantity": "1 UNIT", 
+            "Seizure_Date": "2025-02-05T12:45:00Z",
+            "Witness_Details": "TC Rajesh"
+        }
+    ],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0508": {
+    "meta": {
+      "cctns_id": "RJ-033-PS08-2025-0508",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS08",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0508",
+        "Registration_Date": "2025-02-08T16:45:00Z",
+        "GD_Entry": { "GD_Number": "025", "GD_Date": "2025-02-08T16:00:00Z" },
+        "Nature_Of_Information": "WRITTEN",
+        "Type_Of_Crime": "TRAFFIC",
+        "Police_Station": {
+          "ID": "PS08",
+          "Name": "Ratanada Police Station",
+          "District": "Jodhpur East",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Circuit House Road, Ratanada",
+          "Distance_from_PS": "2 KM",
+          "Direction": "SOUTH",
+          "Beat_No": "BT-03"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-02-08T16:00:00Z",
+          "Date_To": "2025-02-08T16:30:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Pooja Verma",
+        "Father_Name": "Sunil Verma",
+        "Address": "Ratanada, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9876555555"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "IPC", "Act_Name": "INDIAN PENAL CODE 1860", "Sections": ["279", "337"] },
+        { "Act_Code": "MV_ACT", "Act_Name": "MOTOR VEHICLES ACT", "Sections": ["184"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Unknown Driver", "Status": "NOT_ARRESTED", "Address": "UNKNOWN" }
+      ],
+      "IO_Details": { "IO_Name": "Kishore Kumar", "Rank": "HC", "Belt_No": "RJ-JOD-3344" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "ACCIDENT",
+      "Minor_Head": "RASH DRIVING",
+      "Modus_Operandi": "Hit and run by motorcycle",
+      "Victims": [
+        {
+          "Victim_ID": "V_508",
+          "Name": "Pooja Verma",
+          "Age": 26,
+          "Gender": "FEMALE",
+          "Social_Category": "ST",
+          "Injury_Nature": "SIMPLE",
+          "Injury_Details": "Knee abrasion"
+        }
+      ],
+      "Property_Details": [
+        { "Property_Type": "VEHICLE", "Vehicle_Reg_No": "RJ-19-CA-1234", "Status": "DAMAGED", "Description": "Scooty" }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [
+        { 
+            "Seizure_ID": "SZ-ACC-01",
+            "Item": "MOTORCYCLE", 
+            "Quantity": "1 UNIT", 
+            "Seizure_Date": "2025-02-08T17:00:00Z",
+            "Seal_No": "NA",
+            "Witness_Details": "Traffic Police"
+        }
+    ],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0509": {
+    "meta": {
+      "cctns_id": "RJ-033-PS09-2025-0509",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS09",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0509",
+        "Registration_Date": "2025-02-12T21:30:00Z",
+        "GD_Entry": { "GD_Number": "050", "GD_Date": "2025-02-12T21:00:00Z" },
+        "Nature_Of_Information": "WRITTEN",
+        "Type_Of_Crime": "BODY",
+        "Police_Station": {
+          "ID": "PS09",
+          "Name": "Mahamandir Police Station",
+          "District": "Jodhpur North",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Near Paota Circle",
+          "Distance_from_PS": "1 KM",
+          "Direction": "NORTH",
+          "Beat_No": "BT-02"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-02-12T21:00:00Z",
+          "Date_To": "2025-02-12T21:15:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Amit Singh",
+        "Father_Name": "Raj Singh",
+        "Address": "Paota, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9876566666"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "IPC", "Act_Name": "INDIAN PENAL CODE 1860", "Sections": ["323", "341"] }
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Vicky", "Status": "ARRESTED", "Address": "Sojati Gate, Jodhpur" }
+      ],
+      "IO_Details": { "IO_Name": "Mahendra", "Rank": "CONSTABLE", "Belt_No": "RJ-JOD-1111" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "HURT",
+      "Minor_Head": "SIMPLE HURT",
+      "Modus_Operandi": "Slapping and punching",
+      "Victims": [
+        {
+          "Victim_ID": "V_509",
+          "Name": "Amit Singh",
+          "Age": 28,
+          "Gender": "MALE",
+          "Social_Category": "GENERAL",
+          "Injury_Nature": "SIMPLE"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [
+        { 
+            "Accused_Name": "Vicky", 
+            "Arrest_Date": "2025-02-12T22:00:00Z",
+            "Arrest_Memo_ID": "MEMO-2025-8899",
+            "Place_of_Arrest": "Paota Circle"
+        }
+    ],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  },
+
+  "FIR_RJ_2025_0510": {
+    "meta": {
+      "cctns_id": "RJ-033-PS10-2025-0510",
+      "state_code": "RJ",
+      "district_code": "033",
+      "ps_code": "PS10",
+      "year": "2025"
+    },
+    "IIF1_FirstInformationReport": {
+      "Header": {
+        "FIR_No": "0510",
+        "Registration_Date": "2025-02-14T11:30:00Z",
+        "GD_Entry": { "GD_Number": "011", "GD_Date": "2025-02-14T11:00:00Z" },
+        "Nature_Of_Information": "WRITTEN",
+        "Type_Of_Crime": "BODY",
+        "Police_Station": {
+          "ID": "PS10",
+          "Name": "BJS Police Station",
+          "District": "Jodhpur East",
+          "State": "Rajasthan"
+        },
+        "Place_of_Occurrence": {
+          "Address": "Near Public School, BJS",
+          "Distance_from_PS": "4 KM",
+          "Direction": "EAST",
+          "Beat_No": "BT-04"
+        },
+        "Occurrence_Details": {
+          "Date_From": "2025-02-14T10:30:00Z",
+          "Date_To": "2025-02-14T11:00:00Z"
+        }
+      },
+      "Complainant": {
+        "Name": "Kailash Chand",
+        "Father_Name": "Ram Chand",
+        "Address": "BJS Colony, Jodhpur",
+        "Nationality": "INDIAN",
+        "Mobile": "9876577777"
+      },
+      "Acts_and_Sections": [
+        { "Act_Code": "IPC", "Act_Name": "INDIAN PENAL CODE 1860", "Sections": ["363"] }
+        // NOTE: Kidnapping case. Victim is SC. BUT Polce forgot/missed PoA Act.
+        // SAMARTH should see NO PoA section and flag "Pending Clarification".
+      ],
+      "Accused_Details": [
+        { "Rank": 1, "Name": "Unknown", "Status": "NOT_ARRESTED", "Address": "UNKNOWN" }
+      ],
+      "IO_Details": { "IO_Name": "Suresh", "Rank": "SI", "Belt_No": "RJ-JOD-8888" }
+    },
+    "IIF2_CrimeDetails": {
+      "Major_Head": "KIDNAPPING",
+      "Minor_Head": "KIDNAPPING OF MINOR",
+      "Victims": [
+        {
+          "Victim_ID": "V_510",
+          "Name": "Minor Girl",
+          "Age": 16,
+          "Gender": "FEMALE",
+          "Social_Category": "SC",
+          "Injury_Nature": "UNKNOWN"
+        }
+      ]
+    },
+    "IIF3_Arrest_Surrender": [],
+    "IIF4_Seizure": [],
+    "IIF5_FinalReport": null
+  }
+}

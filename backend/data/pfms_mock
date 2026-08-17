@@ -1,0 +1,153 @@
+{
+  "10000000101": {
+    "meta": {
+      "Bank_IIN": "607094",
+      "Branch_Code": "SBIN0001234",
+      "Source_System": "CBS_SBI_CORE"
+    },
+    "Beneficiary_Details": {
+      "Account_Number": "10000000101",
+      "Account_Holder": "ANJALI MEENA",
+      "Aadhaar_Number": "973090065374",
+      "Mobile": "9988776655",
+      "Ben_Type": "INDIVIDUAL"
+    },
+    "Account_Status": {
+      "Status_Code": "OPERATIVE",
+      "Account_Type": "SAVINGS_GEN",
+      "KYC_Status": "COMPLIANT"
+    },
+    "DBT_Layer": {
+      "NPCI_Mapper_Status": "ACTIVE",
+      "Aadhaar_Seeding_Date": "2023-05-10",
+      "DBT_Enabled": true,
+      "Last_Credit_Date": "2025-01-15"
+    },
+    "Ledger": {
+      "Current_Balance": 5000.00,
+      "Currency": "INR"
+    }
+  },
+
+  "20000000102": {
+    "meta": {
+      "Bank_IIN": "607022",
+      "Branch_Code": "PUNB0005678",
+      "Source_System": "CBS_PNB_CORE"
+    },
+    "Beneficiary_Details": {
+      "Account_Number": "20000000102",
+      "Account_Holder": "VIKRAM DAS",
+      "Aadhaar_Number": "VIKRAM_AADHAAR_HASH",
+      "Mobile": "9876500001",
+      "Ben_Type": "INDIVIDUAL"
+    },
+    "Account_Status": {
+      "Status_Code": "OPERATIVE",
+      "Account_Type": "JAN_DHAN_Y",
+      "KYC_Status": "COMPLIANT"
+    },
+    "DBT_Layer": {
+      "NPCI_Mapper_Status": "ACTIVE",
+      "Aadhaar_Seeding_Date": "2024-01-20",
+      "DBT_Enabled": true,
+      "Last_Credit_Date": "2025-02-01"
+    },
+    "Ledger": {
+      "Current_Balance": 12000.00,
+      "Currency": "INR"
+    }
+  },
+
+  "30000000103": {
+    "meta": {
+      "Bank_IIN": "606985",
+      "Branch_Code": "BARB0JODHPU",
+      "Source_System": "CBS_BOB_CORE"
+    },
+    "Beneficiary_Details": {
+      "Account_Number": "30000000103",
+      "Account_Holder": "SUNITA DEVI",
+      "Aadhaar_Number": "SUNITA_AADHAAR_HASH",
+      "Mobile": "8899776655",
+      "Ben_Type": "INDIVIDUAL"
+    },
+    "Account_Status": {
+      "Status_Code": "OPERATIVE",
+      "Account_Type": "SAVINGS_GEN",
+      "KYC_Status": "COMPLIANT"
+    },
+    "DBT_Layer": {
+      "NPCI_Mapper_Status": "INACTIVE",
+      "Aadhaar_Seeding_Date": null,
+      "DBT_Enabled": false,
+      "Reason_Code": "BE02",
+      "Reason_Description": "AADHAAR_NOT_SEEDED_IN_NPCI_MAPPER"
+    },
+    "Ledger": {
+      "Current_Balance": 5000.00,
+      "Currency": "INR"
+    }
+  },
+
+  "40000000104": {
+    "meta": {
+      "Bank_IIN": "607162",
+      "Branch_Code": "UBIN0543210",
+      "Source_System": "CBS_UNION_CORE"
+    },
+    "Beneficiary_Details": {
+      "Account_Number": "40000000104",
+      "Account_Holder": "RAHUL VALMIKI",
+      "Aadhaar_Number": "RAHUL_AADHAAR_HASH",
+      "Mobile": "7766554433",
+      "Ben_Type": "INDIVIDUAL"
+    },
+    "Account_Status": {
+      "Status_Code": "OPERATIVE",
+      "Account_Type": "SAVINGS_GEN",
+      "KYC_Status": "COMPLIANT"
+    },
+    "DBT_Layer": {
+      "NPCI_Mapper_Status": "ACTIVE",
+      "Aadhaar_Seeding_Date": "2022-08-15",
+      "DBT_Enabled": true,
+      "Last_Credit_Date": "2024-12-20"
+    },
+    "Ledger": {
+      "Current_Balance": 6700.00,
+      "Currency": "INR"
+    }
+  },
+
+  "50000000105": {
+    "meta": {
+      "Bank_IIN": "608001",
+      "Branch_Code": "RURB0009999",
+      "Source_System": "CBS_RURAL_CORE"
+    },
+    "Beneficiary_Details": {
+      "Account_Number": "50000000105",
+      "Account_Holder": "AMIT GOND",
+      "Aadhaar_Number": "AMIT_AADHAAR_HASH",
+      "Mobile": "6655443322",
+      "Ben_Type": "INDIVIDUAL"
+    },
+    "Account_Status": {
+      "Status_Code": "STOPPED",
+      "Account_Type": "SAVINGS_GEN",
+      "KYC_Status": "PENDING_RE_KYC"
+    },
+    "DBT_Layer": {
+      "NPCI_Mapper_Status": "ACTIVE",
+      "Aadhaar_Seeding_Date": "2023-11-11",
+      "DBT_Enabled": false,
+      "Reason_Code": "AP03",
+      "Reason_Description": "ACCOUNT_FROZEN_BY_BANK"
+    },
+    "Ledger": {
+      "Current_Balance": 7500.00,
+      "Currency": "INR"
+    }
+  }
+}

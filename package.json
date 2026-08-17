@@ -1,0 +1,22 @@
+{
+  "name": "samarth-dbt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SAMARTH - Web-Based Human-in-the-Loop DBT System (PCR & PoA Acts)",
+  "scripts": {
+    "setup": "cd backend && npm install && cd ../frontend && npm install",
+    "db:init": "cd backend && npm run db:init",
+    "dev:server": "cd backend && npm run dev",
+    "dev:web": "cd frontend && npm run dev",
+    "dev": "concurrently -n server,web -c blue,magenta \"npm run dev:server\" \"npm run dev:web\"",
+    "build": "cd backend && npm run build && cd ../frontend && npm run build",
+    "test": "cd backend && npm test",
+    "e2e": "cd backend && npm run e2e"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.4"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.2"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "973090065374": {
+    "uid_token": "720948574321",
+    "aadhaar_number": "973090065374",
+    "masked_aadhaar": "XXXXXXXX5374",
+    "personal_identity": {
+      "name": "Anjali Meena",
+      "dob": "2001-05-15",
+      "gender": "F",
+      "phone": "9988776655",
+      "email": "anjali.m@example.com"
+    },
+    "address_details": {
+      "care_of": "D/O Sohan Lal Meena",
+      "house": "Plot 45",
+      "street": "Railway Colony",
+      "landmark": "Near Railway Station",
+      "loc": "Ratanada",
+      "vtc": "Jodhpur",
+      "subdist": "Jodhpur",
+      "dist": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342001",
+      "country": "India"
+    },
+    "kyc_meta": {
+      "photo_url": "http://localhost:9000/files/aadhaar-photos/anjali.jpg",
+      "verification_status": "VERIFIED",
+      "biometric_match": true
+    }
+  },
+
+  "888877776666": {
+    "uid_token": "882938475610",
+    "aadhaar_number": "888877776666",
+    "masked_aadhaar": "XXXXXXXX6666",
+    "personal_identity": {
+      "name": "Vikram Das",
+      "dob": "1993-08-20",
+      "gender": "M",
+      "phone": "9876500001",
+      "email": "vikram.d@example.com"
+    },
+    "address_details": {
+      "care_of": "S/O Mohan Das",
+      "house": "House No 12",
+      "street": "Main Village Road",
+      "landmark": "Near Public Well",
+      "loc": "Nandri",
+      "vtc": "Nandri",
+      "subdist": "Banar",
+      "dist": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342015",
+      "country": "India"
+    },
+    "kyc_meta": {
+      "photo_url": "http://localhost:9000/files/aadhaar-photos/vikram.jpg",
+      "verification_status": "VERIFIED",
+      "biometric_match": true
+    }
+  },
+
+  "777766665555": {
+    "uid_token": "992837465102",
+    "aadhaar_number": "777766665555",
+    "masked_aadhaar": "XXXXXXXX5555",
+    "personal_identity": {
+      "name": "Sunita Devi",
+      "dob": "2003-02-10",
+      "gender": "F",
+      "phone": "8899776655",
+      "email": "sunita.d@example.com"
+    },
+    "address_details": {
+      "care_of": "D/O Ram Narayan",
+      "house": "Flat 3B",
+      "street": "Shastri Nagar Sector C",
+      "landmark": "Opposite Community Park",
+      "loc": "Shastri Nagar",
+      "vtc": "Jodhpur",
+      "subdist": "Jodhpur",
+      "dist": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342003",
+      "country": "India"
+    },
+    "kyc_meta": {
+      "photo_url": "http://localhost:9000/files/aadhaar-photos/sunita.jpg",
+      "verification_status": "VERIFIED",
+      "biometric_match": true
+    }
+  },
+
+  "666655554444": {
+    "uid_token": "112233445566",
+    "aadhaar_number": "666655554444",
+    "masked_aadhaar": "XXXXXXXX4444",
+    "personal_identity": {
+      "name": "Rahul Valmiki",
+      "dob": "1996-11-30",
+      "gender": "M",
+      "phone": "7766554433",
+      "email": "rahul.v@example.com"
+    },
+    "address_details": {
+      "care_of": "S/O Kishore Valmiki",
+      "house": "H-102",
+      "street": "Harijan Basti Lane 4",
+      "landmark": "Near Water Tank",
+      "loc": "Pratap Nagar",
+      "vtc": "Jodhpur",
+      "subdist": "Jodhpur",
+      "dist": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342004",
+      "country": "India"
+    },
+    "kyc_meta": {
+      "photo_url": "http://localhost:9000/files/aadhaar-photos/rahul.jpg",
+      "verification_status": "VERIFIED",
+      "biometric_match": true
+    }
+  },
+
+  "555544443333": {
+    "uid_token": "667788990011",
+    "aadhaar_number": "555544443333",
+    "masked_aadhaar": "XXXXXXXX3333",
+    "personal_identity": {
+      "name": "Amit Gond",
+      "dob": "2005-01-01",
+      "gender": "M",
+      "phone": "6655443322",
+      "email": "amit.g@example.com"
+    },
+    "address_details": {
+      "care_of": "S/O Babu Lal",
+      "house": "Room 12",
+      "street": "Tribal Welfare Hostel",
+      "landmark": "Near University Road",
+      "loc": "Ratanada",
+      "vtc": "Jodhpur",
+      "subdist": "Jodhpur",
+      "dist": "Jodhpur",
+      "state": "Rajasthan",
+      "pincode": "342011",
+      "country": "India"
+    },
+    "kyc_meta": {
+      "photo_url": "http://localhost:9000/files/aadhaar-photos/amit.jpg",
+      "verification_status": "VERIFIED",
+      "biometric_match": true
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "RJJD010001012025": {
+    "cnr_number": "RJJD010001012025",
+    "case_details": {
+      "case_type": "SC/ST-SPL",
+      "case_type_desc": "SPECIAL CASE (SC/ST ACT)",
+      "filing_number": "101/2025",
+      "filing_date": "2025-02-11",
+      "registration_number": "SC/ST-45/2025",
+      "registration_date": "2025-02-12"
+    },
+    "case_status": {
+      "first_hearing_date": "2025-02-12",
+      "next_hearing_date": "2025-05-10",
+      "case_stage": "AWAITING_INVESTIGATION_REPORT",
+      "court_no_and_judge": "3 - Sh. R.K. Sharma, Spl. Judge (SC/ST)"
+    },
+    "petitioner_and_advocate": {
+      "petitioner": "STATE OF RAJASTHAN (PRO. ANJALI MEENA)",
+      "advocate": "PUBLIC PROSECUTOR"
+    },
+    "respondent_and_advocate": {
+      "respondent": "ROHIT SHARMA",
+      "advocate": "PENDING"
+    },
+    "acts": [
+      { "act": "IPC", "section": "354, 509" },
+      { "act": "SC/ST (POA) ACT", "section": "3(1)(w)(i), 3(2)(v)" }
+    ],
+    "fir_details": {
+      "police_station_code": "RJ-JOD-04",
+      "police_station": "Sardarpura Police Station",
+      "fir_no": "0101",
+      "year": "2025",
+      "fir_id_ref": "FIR_RJ_2025_0101"
+    },
+    "history_of_case_hearing": [
+      {
+        "hearing_date": "2025-02-12",
+        "business": "FIR RECEIVED",
+        "next_purpose": "AWAITING CHARGESHEET"
+      }
+    ],
+    "orders_judgments": [],
+    "final_verdict": null 
+  },
+
+  "RJJD010001022025": {
+    "cnr_number": "RJJD010001022025",
+    "case_details": {
+      "case_type": "SC/ST-SPL",
+      "case_type_desc": "SPECIAL CASE (SC/ST ACT)",
+      "filing_number": "102/2025",
+      "filing_date": "2025-02-13",
+      "registration_number": "SC/ST-46/2025",
+      "registration_date": "2025-02-13"
+    },
+    "case_status": {
+      "first_hearing_date": "2025-02-13",
+      "next_hearing_date": "2025-05-12",
+      "case_stage": "AWAITING_INVESTIGATION_REPORT",
+      "court_no_and_judge": "3 - Sh. R.K. Sharma, Spl. Judge (SC/ST)"
+    },
+    "petitioner_and_advocate": {
+      "petitioner": "STATE OF RAJASTHAN (PRO. VIKRAM DAS)",
+      "advocate": "PUBLIC PROSECUTOR"
+    },
+    "respondent_and_advocate": {
+      "respondent": "SURENDRA SINGH AND ORS",
+      "advocate": "PENDING"
+    },
+    "acts": [
+      { "act": "IPC", "section": "326, 341" },
+      { "act": "SC/ST (POA) ACT", "section": "3(2)(v), 3(1)(s)" } 
+    ],
+    "fir_details": {
+      "police_station_code": "RJ-JOD-04",
+      "police_station": "Sardarpura Police Station",
+      "fir_no": "0102",
+      "year": "2025",
+      "fir_id_ref": "FIR_RJ_2025_0102"
+    },
+    "history_of_case_hearing": [
+      {
+        "hearing_date": "2025-02-13",
+        "business": "FIR RECEIVED",
+        "next_purpose": "AWAITING CHARGESHEET"
+      }
+    ],
+    "orders_judgments": [],
+    "final_verdict": null
+  },
+
+  "RJJD030005062025": {
+    "cnr_number": "RJJD030005062025",
+    "case_details": {
+      "case_type": "CR-REG",
+      "case_type_desc": "CRIMINAL REGULAR CASE",
+      "filing_number": "506/2025",
+      "filing_date": "2025-02-01",
+      "registration_number": "CR-88/2025",
+      "registration_date": "2025-02-02"
+    },
+    "case_status": {
+      "first_hearing_date": "2025-02-02",
+      "next_hearing_date": "2025-04-10",
+      "case_stage": "EVIDENCE",
+      "court_no_and_judge": "1 - Sh. S.M. Khan, CJM"
+    },
+    "petitioner_and_advocate": {
+      "petitioner": "STATE OF RAJASTHAN",
+      "advocate": "APP"
+    },
+    "respondent_and_advocate": {
+      "respondent": "UNKNOWN",
+      "advocate": "NONE"
+    },
+    "acts": [
+      { "act": "IPC", "section": "457, 380" }
+    ],
+    "fir_details": {
+      "police_station_code": "RJ-JOD-06",
+      "police_station": "Kudi Bhagtasni PS",
+      "fir_no": "0506",
+      "year": "2025",
+      "fir_id_ref": "FIR_RJ_2025_0506"
+    },
+    "history_of_case_hearing": [
+      { "hearing_date": "2025-02-02", "business": "REMAND HEARING", "next_purpose": "EVIDENCE" }
+    ],
+    "orders_judgments": [],
+    "final_verdict": null
+  },
+
+  "RJJD030005072025": {
+    "cnr_number": "RJJD030005072025",
+    "case_details": {
+      "case_type": "CR-REG",
+      "case_type_desc": "CRIMINAL REGULAR CASE",
+      "filing_number": "507/2025",
+      "filing_date": "2025-02-06",
+      "registration_number": "CR-92/2025",
+      "registration_date": "2025-02-06"
+    },
+    "case_status": {
+      "first_hearing_date": "2025-02-06",
+      "next_hearing_date": "2025-03-15",
+      "case_stage": "CHARGE_ARGUMENTS",
+      "court_no_and_judge": "5 - Sh. V.K. Singh, ACJM"
+    },
+    "petitioner_and_advocate": {
+      "petitioner": "STATE OF RAJASTHAN",
+      "advocate": "APP"
+    },
+    "respondent_and_advocate": {
+      "respondent": "ASLAM",
+      "advocate": "LEGAL AID"
+    },
+    "acts": [
+      { "act": "ARMS ACT", "section": "3, 25" }
+    ],
+    "fir_details": {
+      "police_station_code": "RJ-JOD-07",
+      "police_station": "GRP Jodhpur",
+      "fir_no": "0507",
+      "year": "2025",
+      "fir_id_ref": "FIR_RJ_2025_0507"
+    },
+    "history_of_case_hearing": [
+      { "hearing_date": "2025-02-06", "business": "ACCUSED PRODUCED", "next_purpose": "CHARGE ARGUMENTS" }
+    ],
+    "orders_judgments": [],
+    "final_verdict": null
+  },
+
+  "RJJD050005082025": {
+    "cnr_number": "RJJD050005082025",
+    "case_details": {
+      "case_type": "MACT",
+      "case_type_desc": "MOTOR ACCIDENT CLAIM PETITION",
+      "filing_number": "508/2025",
+      "filing_date": "2025-02-10",
+      "registration_number": "MACT-12/2025",
+      "registration_date": "2025-02-10"
+    },
+    "case_status": {
+      "first_hearing_date": "2025-02-10",
+      "next_hearing_date": "2025-04-20",
+      "case_stage": "SERVICE_OF_NOTICE",
+      "court_no_and_judge": "8 - Sh. P.L. Verma, MACT Judge"
+    },
+    "petitioner_and_advocate": {
+      "petitioner": "POOJA VERMA",
+      "advocate": "P.K. JAIN"
+    },
+    "respondent_and_advocate": {
+      "respondent": "INSURANCE CO & OTHERS",
+      "advocate": "EX-PARTE"
+    },
+    "acts": [
+      { "act": "MV ACT", "section": "166, 140" }
+    ],
+    "fir_details": {
+      "police_station_code": "RJ-JOD-08",
+      "police_station": "Ratanada Police Station",
+      "fir_no": "0508",
+      "year": "2025",
+      "fir_id_ref": "FIR_RJ_2025_0508"
+    },
+    "history_of_case_hearing": [
+      { "hearing_date": "2025-02-10", "business": "CLAIM FILED", "next_purpose": "SERVICE" }
+    ],
+    "orders_judgments": [],
+    "final_verdict": null
+  },
+
+  "RJJD020005092025": {
+    "cnr_number": "RJJD020005092025",
+    "case_details": {
+      "case_type": "CR-REG",
+      "case_type_desc": "CRIMINAL REGULAR CASE",
+      "filing_number": "509/2025",
+      "filing_date": "2025-02-14",
+      "registration_number": "CR-99/2025",
+      "registration_date": "2025-02-14"
+    },
+    "case_status": {
+      "first_hearing_date": "2025-02-14",
+      "next_hearing_date": "2025-03-01",
+      "case_stage": "BAIL_HEARING",
+      "court_no_and_judge": "4 - Ms. A.K. Gupta, JMFC"
+    },
+    "petitioner_and_advocate": {
+      "petitioner": "STATE OF RAJASTHAN",
+      "advocate": "APP"
+    },
+    "respondent_and_advocate": {
+      "respondent": "VICKY",
+      "advocate": "SELF"
+    },
+    "acts": [
+      { "act": "IPC", "section": "323, 341" }
+    ],
+    "fir_details": {
+      "police_station_code": "RJ-JOD-09",
+      "police_station": "Mahamandir Police Station",
+      "fir_no": "0509",
+      "year": "2025",
+      "fir_id_ref": "FIR_RJ_2025_0509"
+    },
+    "history_of_case_hearing": [
+      { "hearing_date": "2025-02-14", "business": "BAIL APP FILED", "next_purpose": "CALL FOR CD" }
+    ],
+    "orders_judgments": [],
+    "final_verdict": null
+  },
+
+  "RJJD020005102025": {
+    "cnr_number": "RJJD020005102025",
+    "case_details": {
+      "case_type": "SESS-TRI",
+      "case_type_desc": "SESSIONS TRIAL",
+      "filing_number": "510/2025",
+      "filing_date": "2025-02-15",
+      "registration_number": "ST-10/2025",
+      "registration_date": "2025-02-15"
+    },
+    "case_status": {
+      "first_hearing_date": "2025-02-15",
+      "next_hearing_date": "2025-02-25",
+      "case_stage": "AWAITING_INVESTIGATION_REPORT",
+      "court_no_and_judge": "1 - Sh. R.R. Beniwal, Sessions Judge"
+    },
+    "petitioner_and_advocate": {
+      "petitioner": "STATE OF RAJASTHAN",
+      "advocate": "PUBLIC PROSECUTOR"
+    },
+    "respondent_and_advocate": {
+      "respondent": "UNKNOWN",
+      "advocate": "NA"
+    },
+    "acts": [
+      { "act": "IPC", "section": "363" }
+    ],
+    "fir_details": {
+      "police_station_code": "RJ-JOD-10",
+      "police_station": "BJS Police Station",
+      "fir_no": "0510",
+      "year": "2025",
+      "fir_id_ref": "FIR_RJ_2025_0510"
+    },
+    "history_of_case_hearing": [
+      { "hearing_date": "2025-02-15", "business": "FIR RECEIVED", "next_purpose": "AWAITING CHARGESHEET" }
+    ],
+    "orders_judgments": [],
+    "final_verdict": null
+  }
+}
