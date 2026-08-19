@@ -18,7 +18,7 @@
 # PGHOST      = 127.0.0.1
 # PGPORT      = 5432
 # PGUSER      = postgres
-# PGPASSWORD  = postgres
+# PGPASSWORD  = <your-local/cloud-postgres-password>
 # PGDATABASE  = samarth
 
 # ---------------------------------------------------------------------------
@@ -28,7 +28,7 @@
 #   sudo apt-get update
 #   sudo apt-get install -y postgresql postgresql-contrib
 #   sudo systemctl enable --now postgresql
-#   sudo -u postgres psql -c "ALTER USER postgres PASSWORD 'postgres';"
+#   sudo -u postgres psql 
 #   curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 #   sudo apt-get install -y nodejs
 
@@ -39,7 +39,9 @@
 # Windows:
 #   Install PostgreSQL from https://www.postgresql.org/download/windows/
 #   Install Node.js from https://nodejs.org (LTS)
-#   Use start.bat (set PGPASSWORD to your postgres user's password if needed)
+#   Use start.bat and provide your PostgreSQL credentials through environment
+#   variables when required.
+
 
 # ---------------------------------------------------------------------------
 # JavaScript dependencies (installed automatically by start.sh / npm install)
