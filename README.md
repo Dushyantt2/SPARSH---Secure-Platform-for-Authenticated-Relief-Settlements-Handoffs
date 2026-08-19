@@ -1,5 +1,4 @@
-# SPARSH / SAMARTH
-### Secure Platform for Authenticated Relief Settlements & Handoffs
+# SPARSH - Secure Platform for Authenticated Relief Settlements & Handoffs
 
 > [!CAUTION]
 > **STRICT WARNING OF USE: PROPRIETARY & CONFIDENTIAL**  
