@@ -16,8 +16,9 @@ async function request<T>(method: string, path: string, body?: unknown): Promise
   const headers: Record<string, string> = { 'Content-Type': 'application/json' };
   const token = getToken();
   if (token) headers['Authorization'] = `Bearer ${token}`;
-
-  const res = await fetch(`/api${path}`, {
+  
+  const API_BASE = import.meta.env.VITE_API_URL || '';
+   const res = await fetch(`${API_BASE}/api${path}`, {
     method,
     headers,
     body: body ? JSON.stringify(body) : undefined,
