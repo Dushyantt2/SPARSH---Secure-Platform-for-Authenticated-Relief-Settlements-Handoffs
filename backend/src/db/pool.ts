@@ -35,7 +35,7 @@ if (
       ca: readFileSync(caPath, 'utf8'),
     };
   } else {
-    poolConfig.ssl = true;
+    poolConfig.ssl = { rejectUnauthorized: false };
   }
 }
 
